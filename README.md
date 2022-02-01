@@ -267,7 +267,7 @@ Item # | Description | Completed
 1d | What does `log` do? | command guide
 2a | 2nd Favorite emoji | 😤
 2b | Link to `commit #2 from Github Desktop` |
-2c | Full path to your working directory |
+2c | Full path to your working directory | /Users/malloryjustis/Documents/Davidson - Sophomore 2021-2022/Semester 2/DIG 333/dig333-physical-computing
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
