@@ -270,7 +270,7 @@ Item # | Description | Completed
 2c | Full path to your working directory |/Users/malloryjustis/Documents/Davidson - Sophomore 2021-2022/Semester 2/DIG 333/dig333-physical-computing
 2d | Link to `commit #3 from CLI` | [link to commit #3 from CLI](https://github.com/malloryjustis/learn-git-milestones/commit/7f4736a6c9ae8d0f4e282a00aeb49d9da042581b)
 2e | 3rd Favorite emoji |
-2f | Link to `commit #4 from Atom` |
+2f | Link to `commit #4 from Atom` | 🤪
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 ... | ... | Total: 0/12
