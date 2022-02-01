@@ -267,8 +267,8 @@ Item # | Description | Completed
 1d | What does `log` do? | command guide
 2a | 2nd Favorite emoji | 😤
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/malloryjustis/learn-git-milestones/commit/c7454d44b542883afa5235d42f5b0d03246ebb68#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5)
-2c | Full path to your working directory |
-2d | Link to `commit #3 from CLI` |
+2c | Full path to your working directory |/Users/malloryjustis/Documents/Davidson - Sophomore 2021-2022/Semester 2/DIG 333/dig333-physical-computing
+2d | Link to `commit #3 from CLI` | [link to commit #3 from CLI](https://github.com/malloryjustis/learn-git-milestones/commit/7f4736a6c9ae8d0f4e282a00aeb49d9da042581b)
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
