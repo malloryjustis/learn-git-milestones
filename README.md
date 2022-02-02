@@ -272,7 +272,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji | 🤪
 2f | Link to `commit #4 from Atom` | [link to commit #4 from Atom](https://github.com/malloryjustis/learn-git-milestones/blob/main/hello.txt)
 3a | Link to `my-awesome-project` github.com repo page | [link to my-awesome-project repo page](https://github.com/malloryjustis/learn-git-milestones/tree/main/my-awesome-project)
-4a | Link to `my-awesome-project` github.io "project site" |
+4a | Link to `my-awesome-project` github.io "project site" | [project site](https://malloryjustis.github.io/my-awesome-project/)
 ... | ... | Total: 0/12
 
 
