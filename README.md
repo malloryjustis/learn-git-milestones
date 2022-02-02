@@ -271,7 +271,7 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` | [link to commit #3 from CLI](https://github.com/malloryjustis/learn-git-milestones/commit/7f4736a6c9ae8d0f4e282a00aeb49d9da042581b)
 2e | 3rd Favorite emoji | 🤪
 2f | Link to `commit #4 from Atom` | [link to commit #4 from Atom](https://github.com/malloryjustis/learn-git-milestones/blob/main/hello.txt)
-3a | Link to `my-awesome-project` github.com repo page |
+3a | Link to `my-awesome-project` github.com repo page | [link to my-awesome-project repo page](https://github.com/malloryjustis/learn-git-milestones/tree/main/my-awesome-project)
 4a | Link to `my-awesome-project` github.io "project site" |
 ... | ... | Total: 0/12
 
